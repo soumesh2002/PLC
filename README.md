@@ -1,2 +1,2 @@
-## Lex 
+## Lex Sample 
 ![](PLC.png)
